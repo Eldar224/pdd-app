@@ -1,0 +1,24 @@
+# Flutter
+tests pdd/pdd_test_app/.dart_tool/
+tests pdd/pdd_test_app/build/
+tests pdd/pdd_test_app/.packages
+
+# Android
+tests pdd/pdd_test_app/android/.gradle/
+tests pdd/pdd_test_app/android/app/build/
+
+# iOS
+tests pdd/pdd_test_app/ios/Pods/
+
+# Java backend
+pdd_server/target/
+pdd_server/.idea/
+pdd_server/*.log
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
